@@ -1,0 +1,26 @@
+.nav {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.persoon {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+
+.persoon img {
+  margin-right: 5rem;
+}
+
+.kolom {
+  display: inline-block;
+  margin-right: 1rem;
+  text-align: left;
+  min-width: 5rem;
+}
+#headers {
+  font-weight: bold;
+}
