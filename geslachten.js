@@ -8,7 +8,7 @@ function initialiseerFilters() {
     toonAllen: "allen",
     toonMannen: "man",
     toonVrouwen: "vrouw",
-    toonX: "x",
+    toonX: "x", 
   };
 
   Object.keys(filters).forEach((id) => {
